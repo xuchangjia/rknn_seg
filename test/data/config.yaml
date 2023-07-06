@@ -1,0 +1,6 @@
+perception:
+    camera:
+      detector:
+        ppseg:
+          model: /home/bzl/Documents/rk_seg/rknn_seg/model/pp.rknn
+          label: 4
